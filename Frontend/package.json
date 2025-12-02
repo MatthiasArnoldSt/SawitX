@@ -1,6 +1,7 @@
 {
   "name": "ffb-forecast-frontend",
   "version": "1.0.0",
+  "homepage": "https://MatthiasArnoldSt.github.io/SawitX",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
